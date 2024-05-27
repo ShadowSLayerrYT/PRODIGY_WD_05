@@ -67,6 +67,6 @@ If you have any questions or suggestions, feel free to reach out!
 
 Email: shadowslayerryt@gmail.com
 
-GitHub: ShadowSLayerrYt
+GitHub: ShadowSLayerrYT
 
 ⭐️ Don't forget to star this repository if you found it useful!
