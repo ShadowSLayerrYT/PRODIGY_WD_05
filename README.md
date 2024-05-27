@@ -37,26 +37,32 @@ Open the script.js file and replace 'YOUR_API_KEY_HERE' with your WeatherAPI key
 
 Open index.html in your web browser.
 
-📂 Project Structure
-Copy code
+## 📂 Project Structure
+
 weather-app/
 ├── index.html
 ├── styles.css
 └── script.js
 
-🌈 Usage
-Open the app in your web browser.
-Enter a location in the input field.
-Click on "Get Weather" to fetch and display the weather information for the entered location.
-📸 Screenshots
+## 🌈 Usage
 
-🤝 Contributing
+> Open the app in your web browser.
+
+> Enter a location in the input field.
+
+> Click on "Get Weather" to fetch and display the weather information for the entered location.
+
+
+## 🤝 Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📝 License
+## 📝 License
+
 This project is licensed under the MIT License.
 
-📧 Contact
+## 📧 Contact
+
 If you have any questions or suggestions, feel free to reach out!
 
 Email: shadowslayerryt@gmail.com
